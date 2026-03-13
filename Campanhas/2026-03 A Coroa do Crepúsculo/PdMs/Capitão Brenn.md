@@ -3,6 +3,8 @@
 > **Papel:** Líder da Milícia / Informante / Quest Giver secundário
 > **Raça:** Humano | **Idade:** 42 | **Alinhamento:** Leal Bom
 
+![[Retrato - Capitao Brenn.svg]]
+
 ---
 
 ## Aparência
@@ -26,7 +28,7 @@ Ex-soldado de uma companhia mercenária, Brenn se aposentou em Raízes Profundas
 
 | Atributo | Valor |
 |----------|-------|
-| **Base** | [[Ficha - Veteran\|Veteran]] (CR 3) |
+| **Base** | Veteran (CR 3, *Monster Manual* p.350) |
 | **HP** | 58 | **AC** | 17 (splint) |
 | **Armas** | Longsword +5 (1d8+3), Heavy Crossbow +3 (1d10+1) |
 

@@ -2,6 +2,8 @@
 
 > **CR:** 3 (700 XP) | **Tipo:** Monstrosity, Large
 
+![Phase Spider](https://www.dnd5eapi.co/api/images/monsters/phase-spider.png)
+
 ---
 
 | FOR | DES | CON | INT | SAB | CAR |

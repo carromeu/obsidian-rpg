@@ -32,7 +32,7 @@
 - **Diplomacia impossível** — é um animal, não fala.
 
 ### 3. Emboscada Ettercap
-1 [[Ficha - Ettercap|Ettercap]] (CR 2, HP 44, AC 13) + 3 [[Ficha - Giant Spider|Giant Spiders]] (CR 1, HP 26, AC 14)
+1 Ettercap (CR 2, HP 44, AC 13) + 3 Giant Spiders (CR 1, HP 26, AC 14)
 - Teias bloqueiam o caminho (**Strength DC 12** para atravessar)
 - Ettercap ataca de cima enquanto spiders atacam de baixo
 - **Loot:** Corpo de um aventureiro nas teias (50 po + Potion of Climbing)
@@ -52,7 +52,7 @@ Uma fonte natural brilha com luz prateada. Se alguém beber:
 Mesmo evento descrito na [[Cena 2.1 - Adentrando a Floresta|Cena 2.1]]. Se já ocorreu, reroll.
 
 ### 7. Basilisco na Trilha
-1 [[Ficha - Basilisk|Basilisk]] (CR 3, HP 52, AC 12) dorme no meio da trilha.
+1 Basilisk (CR 3, HP 52, AC 12) dorme no meio da trilha.
 - **Stealth DC 10 (grupo):** Podem contornar sem acordá-lo
 - Se acordado: usa olhar petrificante (DC 12 Con ou começa a petrificar)
 - Ao redor: 2 estátuas de pedra (animais petrificados)

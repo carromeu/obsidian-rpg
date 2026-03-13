@@ -3,6 +3,8 @@
 > **Papel:** Guia / Traidor / Doppelganger infiltrado
 > **Raça:** [[Ficha - Doppelganger|Doppelganger]] (disfarçado de humano) | **Alinhamento:** Neutro Maligno
 
+![[Retrato - Fael.svg]]
+
 ---
 
 ## Aparência (Disfarce)

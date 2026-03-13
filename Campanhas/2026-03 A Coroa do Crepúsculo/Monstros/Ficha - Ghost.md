@@ -2,6 +2,8 @@
 
 > **CR:** 4 (1.100 XP) | **Tipo:** Undead, Medium
 
+![Ghost](https://www.dnd5eapi.co/api/images/monsters/ghost.png)
+
 ---
 
 | FOR | DES | CON | INT | SAB | CAR |

@@ -2,6 +2,8 @@
 
 > **CR:** 3 (700 XP) | **Tipo:** Monstrosity (shapechanger), Medium
 
+![Doppelganger](https://www.dnd5eapi.co/api/images/monsters/doppelganger.png)
+
 ---
 
 | FOR | DES | CON | INT | SAB | CAR |

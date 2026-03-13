@@ -2,6 +2,8 @@
 
 > **CR:** 2 (450 XP) | **Tipo:** Elemental, Medium
 
+![Gargoyle](https://www.dnd5eapi.co/api/images/monsters/gargoyle.png)
+
 ---
 
 | FOR | DES | CON | INT | SAB | CAR |

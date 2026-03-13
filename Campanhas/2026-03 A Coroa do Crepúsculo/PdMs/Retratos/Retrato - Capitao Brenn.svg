@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520" width="400" height="520">
+  <defs>
+    <radialGradient id="bgB" cx="50%" cy="35%" r="60%">
+      <stop offset="0%" stop-color="#3a2a1a"/><stop offset="100%" stop-color="#1a1008"/>
+    </radialGradient>
+    <radialGradient id="skinB" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#e0c0a0"/><stop offset="100%" stop-color="#c8a888"/>
+    </radialGradient>
+    <linearGradient id="armorGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#6a5a40"/><stop offset="50%" stop-color="#5a4a30"/><stop offset="100%" stop-color="#4a3a20"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="400" height="520" fill="url(#bgB)"/>
+  <!-- Frame -->
+  <rect x="8" y="8" width="384" height="504" rx="5" fill="none" stroke="#8a6a40" stroke-width="3"/>
+  <rect x="14" y="14" width="372" height="492" rx="3" fill="none" stroke="#6a5a30" stroke-width="1" stroke-dasharray="4,3"/>
+
+  <!-- BODY / ARMOR -->
+  <g transform="translate(200,385)">
+    <!-- Broad shoulders - studded leather -->
+    <path d="M -95,50 Q -105,5 -85,-25 Q -65,-45 -30,-52 L -10,-55 L 10,-55 L 30,-52 Q 65,-45 85,-25 Q 105,5 95,50 L 85,135 L -85,135 Z" fill="url(#armorGrad)" stroke="#3a2a10" stroke-width="1.5"/>
+    <!-- Leather texture lines -->
+    <g stroke="#3a2a10" stroke-width="0.5" fill="none" opacity="0.4">
+      <path d="M -60,-30 Q -50,10 -55,50 Q -58,80 -50,120"/>
+      <path d="M 60,-30 Q 50,10 55,50 Q 58,80 50,120"/>
+      <path d="M -20,-50 Q -15,0 -25,50 Q -30,90 -20,130"/>
+      <path d="M 20,-50 Q 15,0 25,50 Q 30,90 20,130"/>
+    </g>
+    <!-- Studs / rivets -->
+    <g fill="#a09070" stroke="#706040" stroke-width="0.3">
+      <circle cx="-70" cy="-15" r="2.5"/><circle cx="-70" cy="10" r="2.5"/><circle cx="-70" cy="35" r="2.5"/>
+      <circle cx="-45" cy="-30" r="2.5"/><circle cx="-45" cy="-5" r="2.5"/><circle cx="-45" cy="20" r="2.5"/><circle cx="-45" cy="45" r="2.5"/>
+      <circle cx="70" cy="-15" r="2.5"/><circle cx="70" cy="10" r="2.5"/><circle cx="70" cy="35" r="2.5"/>
+      <circle cx="45" cy="-30" r="2.5"/><circle cx="45" cy="-5" r="2.5"/><circle cx="45" cy="20" r="2.5"/><circle cx="45" cy="45" r="2.5"/>
+    </g>
+    <!-- Belt -->
+    <rect x="-75" y="50" width="150" height="10" rx="2" fill="#4a3a20" stroke="#3a2a10" stroke-width="1"/>
+    <rect x="-5" y="48" width="10" height="14" rx="2" fill="#a08850" stroke="#705830" stroke-width="0.8"/>
+    <!-- Collar / gorget -->
+    <path d="M -30,-52 Q -10,-58 0,-60 Q 10,-58 30,-52 Q 20,-45 0,-48 Q -20,-45 -30,-52 Z" fill="#5a4a30" stroke="#3a2a10" stroke-width="0.8"/>
+  </g>
+
+  <!-- SHIELD (partially visible, slung on back) -->
+  <g transform="translate(110,370)" opacity="0.7">
+    <ellipse cx="0" cy="0" rx="30" ry="38" fill="#6a5a40" stroke="#4a3a20" stroke-width="2"/>
+    <ellipse cx="0" cy="0" rx="24" ry="32" fill="none" stroke="#8a7a50" stroke-width="1"/>
+    <!-- Root emblem -->
+    <path d="M 0,-15 Q -8,-5 -12,5 Q -10,15 0,12 Q 10,15 12,5 Q 8,-5 0,-15 Z" fill="none" stroke="#a09060" stroke-width="1.5"/>
+    <line x1="0" y1="-15" x2="0" y2="12" stroke="#a09060" stroke-width="1"/>
+    <path d="M 0,0 Q -6,5 -10,10" stroke="#a09060" stroke-width="0.8" fill="none"/>
+    <path d="M 0,0 Q 6,5 10,10" stroke="#a09060" stroke-width="0.8" fill="none"/>
+  </g>
+
+  <!-- SWORD HILT (at belt, left side) -->
+  <g transform="translate(275,420)">
+    <rect x="-3" y="-25" width="6" height="20" rx="1" fill="#3a2a10" stroke="#2a1a08" stroke-width="0.5"/>
+    <!-- Cross guard -->
+    <rect x="-10" y="-6" width="20" height="4" rx="1" fill="#8a7a50" stroke="#6a5a30" stroke-width="0.5"/>
+    <!-- Pommel -->
+    <circle cx="0" cy="-27" r="4" fill="#a09060" stroke="#706040" stroke-width="0.5"/>
+    <!-- Grip wrapping -->
+    <g stroke="#5a4a30" stroke-width="0.5" opacity="0.6">
+      <line x1="-3" y1="-22" x2="3" y2="-20"/><line x1="-3" y1="-18" x2="3" y2="-16"/>
+      <line x1="-3" y1="-14" x2="3" y2="-12"/><line x1="-3" y1="-10" x2="3" y2="-8"/>
+    </g>
+  </g>
+
+  <!-- NECK (thick, muscular) -->
+  <path d="M 180,318 Q 183,332 186,342 L 214,342 Q 217,332 220,318" fill="url(#skinB)" stroke="none"/>
+
+  <!-- HEAD -->
+  <g transform="translate(200,260)">
+    <!-- Face (square, strong jaw) -->
+    <path d="M -40,-40 Q -48,-10 -42,15 Q -35,42 -20,50 Q 0,55 20,50 Q 35,42 42,15 Q 48,-10 40,-40 Q 25,-52 0,-52 Q -25,-52 -40,-40 Z" fill="url(#skinB)" stroke="#b8a080" stroke-width="0.5"/>
+    <!-- Strong jaw line -->
+    <path d="M -38,15 Q -32,40 -18,48 Q 0,53 18,48 Q 32,40 38,15" fill="url(#skinB)" stroke="none"/>
+
+    <!-- HAIR (short brown, military cut) -->
+    <path d="M -38,-38 Q -40,-52 -20,-55 Q 0,-57 20,-55 Q 40,-52 38,-38 Q 30,-45 0,-47 Q -30,-45 -38,-38 Z" fill="#5a3a18" stroke="#4a2a10" stroke-width="0.5"/>
+    <!-- Short hair on sides -->
+    <path d="M -42,-35 Q -44,-25 -42,-15" fill="#4a3018" stroke="none"/>
+    <path d="M 42,-35 Q 44,-25 42,-15" fill="#4a3018" stroke="none"/>
+
+    <!-- SCAR (crossing forehead to left eyebrow) -->
+    <path d="M 20,-38 Q 5,-30 -10,-25 Q -18,-22 -24,-18" stroke="#c8a088" stroke-width="2" fill="none"/>
+    <path d="M 20,-38 Q 5,-30 -10,-25 Q -18,-22 -24,-18" stroke="#d8b8a0" stroke-width="0.8" fill="none"/>
+
+    <!-- STUBBLE -->
+    <g fill="#5a4a38" opacity="0.12">
+      <circle cx="-20" cy="30" r="0.5"/><circle cx="-15" cy="32" r="0.5"/><circle cx="-10" cy="35" r="0.5"/>
+      <circle cx="-5" cy="36" r="0.5"/><circle cx="0" cy="37" r="0.5"/><circle cx="5" cy="36" r="0.5"/>
+      <circle cx="10" cy="35" r="0.5"/><circle cx="15" cy="32" r="0.5"/><circle cx="20" cy="30" r="0.5"/>
+      <circle cx="-18" cy="35" r="0.5"/><circle cx="-12" cy="38" r="0.5"/><circle cx="-6" cy="40" r="0.5"/>
+      <circle cx="0" cy="42" r="0.5"/><circle cx="6" cy="40" r="0.5"/><circle cx="12" cy="38" r="0.5"/>
+      <circle cx="18" cy="35" r="0.5"/><circle cx="-25" cy="25" r="0.5"/><circle cx="25" cy="25" r="0.5"/>
+      <circle cx="-22" cy="28" r="0.5"/><circle cx="22" cy="28" r="0.5"/>
+    </g>
+
+    <!-- Eyebrows (thick, serious) -->
+    <path d="M -25,-18 Q -18,-22 -8,-19" stroke="#4a3018" stroke-width="2" fill="none"/>
+    <path d="M 25,-18 Q 18,-22 8,-19" stroke="#4a3018" stroke-width="2" fill="none"/>
+
+    <!-- EYES (tired, determined, dark circles) -->
+    <!-- Dark circles -->
+    <ellipse cx="-16" cy="-8" rx="10" ry="7" fill="#c0a888" opacity="0.3"/>
+    <ellipse cx="16" cy="-8" rx="10" ry="7" fill="#c0a888" opacity="0.3"/>
+    <!-- Left eye -->
+    <ellipse cx="-16" cy="-10" rx="8" ry="5.5" fill="#f0e8e0" stroke="#a09078" stroke-width="0.5"/>
+    <circle cx="-16" cy="-10" r="4" fill="#4a6080"/>
+    <circle cx="-16" cy="-10" r="2" fill="#1a2030"/>
+    <circle cx="-14" cy="-12" r="1" fill="#fff" opacity="0.5"/>
+    <!-- Right eye -->
+    <ellipse cx="16" cy="-10" rx="8" ry="5.5" fill="#f0e8e0" stroke="#a09078" stroke-width="0.5"/>
+    <circle cx="16" cy="-10" r="4" fill="#4a6080"/>
+    <circle cx="16" cy="-10" r="2" fill="#1a2030"/>
+    <circle cx="18" cy="-12" r="1" fill="#fff" opacity="0.5"/>
+
+    <!-- Nose (broad, slightly crooked) -->
+    <path d="M -1,-6 Q -3,4 -5,12 Q -6,16 -2,18 Q 2,19 5,18 Q 7,16 5,12 Q 3,4 1,-6" stroke="#b8a080" stroke-width="0.6" fill="#d8b898"/>
+
+    <!-- Mouth (firm, set line) -->
+    <path d="M -14,26 Q -5,29 0,28 Q 5,29 14,26" stroke="#a08070" stroke-width="1.3" fill="none"/>
+    <!-- Lower lip -->
+    <path d="M -10,28 Q 0,32 10,28" stroke="#b09080" stroke-width="0.6" fill="none" opacity="0.4"/>
+
+    <!-- Worry lines -->
+    <path d="M -15,-30 Q -10,-28 -5,-30" stroke="#c8a888" stroke-width="0.4" fill="none" opacity="0.4"/>
+    <path d="M 5,-30 Q 10,-28 15,-30" stroke="#c8a888" stroke-width="0.4" fill="none" opacity="0.4"/>
+  </g>
+
+  <!-- Name plate -->
+  <rect x="60" y="468" width="280" height="38" rx="4" fill="#2a1a08" opacity="0.9"/>
+  <rect x="62" y="470" width="276" height="34" rx="3" fill="none" stroke="#8a6a40" stroke-width="0.8"/>
+  <text x="200" y="490" text-anchor="middle" font-family="Georgia, serif" font-size="16" fill="#e0c8a0" font-weight="bold" letter-spacing="2">CAPITAO BRENN</text>
+  <text x="200" y="500" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#a08860" letter-spacing="1">Lider da Milicia — Humano — 42 anos</text>
+</svg>

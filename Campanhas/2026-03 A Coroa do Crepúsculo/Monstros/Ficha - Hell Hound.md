@@ -2,6 +2,8 @@
 
 > **CR:** 3 (700 XP) | **Tipo:** Fiend, Medium
 
+![Hell Hound](https://www.dnd5eapi.co/api/images/monsters/hell-hound.png)
+
 ---
 
 ## Stat Block

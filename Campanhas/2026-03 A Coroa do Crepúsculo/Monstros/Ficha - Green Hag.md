@@ -2,6 +2,8 @@
 
 > **Usado como:** [[Thessara - A Bruxa Verde|Thessara]]
 
+![Green Hag](https://www.dnd5eapi.co/api/images/monsters/green-hag.png)
+
 ---
 
 ## Stat Block

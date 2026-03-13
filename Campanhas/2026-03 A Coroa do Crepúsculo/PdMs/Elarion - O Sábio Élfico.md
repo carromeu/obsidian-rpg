@@ -3,6 +3,8 @@
 > **Papel:** Quest Giver / Mentor / Possível Antagonista Futuro
 > **Raça:** Meio-Elfo | **Idade:** 187 anos | **Alinhamento:** Neutro Bom → Neutro
 
+![[Retrato - Elarion.svg]]
+
 ---
 
 ## Aparência
@@ -30,7 +32,7 @@ Elarion é genuinamente preocupado com a ameaça de Morvenna. Mas quando mencion
 
 | Atributo | Valor |
 |----------|-------|
-| **Base** | [[Ficha - Mage\|Mage]] (CR 6) com ajustes |
+| **Base** | Mage (CR 6, *Monster Manual* p.174) com ajustes |
 | **HP** | 40 | 
 | **AC** | 12 (15 com *Mage Armor*) |
 | **Spells (preparadas)** | *Shield, Mage Armor, Detect Magic, Identify, Counterspell, Fireball, Dispel Magic* |

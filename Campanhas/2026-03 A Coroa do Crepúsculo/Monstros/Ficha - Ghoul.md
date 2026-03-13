@@ -2,6 +2,8 @@
 
 > **CR:** 1 (200 XP) | **Tipo:** Undead, Medium
 
+![Ghoul](https://www.dnd5eapi.co/api/images/monsters/ghoul.png)
+
 ---
 
 ## Stat Block

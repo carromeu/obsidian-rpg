@@ -2,6 +2,8 @@
 
 > **Usado como:** [[Morvenna - A Bruxa Noturna|Morvenna]] (vilã principal)
 
+![Night Hag](https://www.dnd5eapi.co/api/images/monsters/night-hag.png)
+
 ---
 
 ## Stat Block

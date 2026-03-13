@@ -3,6 +3,8 @@
 > **Papel:** Informante / Suporte social
 > **Raça:** Halfling Pés-Leves | **Idade:** 55 | **Alinhamento:** Neutro Bom
 
+![[Retrato - Lyra.svg]]
+
 ---
 
 ## Aparência

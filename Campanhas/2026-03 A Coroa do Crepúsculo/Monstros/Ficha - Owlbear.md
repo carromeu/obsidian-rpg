@@ -2,6 +2,8 @@
 
 > **CR:** 3 (700 XP) | **Tipo:** Monstrosity, Large
 
+![Owlbear](https://www.dnd5eapi.co/api/images/monsters/owlbear.png)
+
 ---
 
 | FOR | DES | CON | INT | SAB | CAR |

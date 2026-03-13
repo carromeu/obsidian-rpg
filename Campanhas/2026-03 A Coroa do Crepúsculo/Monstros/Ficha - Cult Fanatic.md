@@ -2,6 +2,8 @@
 
 > **CR:** 2 (450 XP) | **Tipo:** Humanoid, Medium
 
+![Cult Fanatic](https://www.dnd5eapi.co/api/images/monsters/cult-fanatic.png)
+
 ---
 
 ## Stat Block

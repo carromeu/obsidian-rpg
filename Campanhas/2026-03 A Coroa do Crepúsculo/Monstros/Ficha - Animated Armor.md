@@ -2,6 +2,8 @@
 
 > **CR:** 1 (200 XP) | **Tipo:** Construct, Medium
 
+![Animated Armor](https://www.dnd5eapi.co/api/images/monsters/animated-armor.png)
+
 ---
 
 ## Stat Block

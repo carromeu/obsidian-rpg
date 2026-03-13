@@ -2,6 +2,8 @@
 
 > **CR:** 3 (700 XP) | **Tipo:** Humanoid (human, shapechanger), Medium
 
+![Werewolf](https://www.dnd5eapi.co/api/images/monsters/werewolf-hybrid.png)
+
 ---
 
 | FOR | DES | CON | INT | SAB | CAR |

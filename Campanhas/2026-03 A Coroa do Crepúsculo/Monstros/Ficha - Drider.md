@@ -2,6 +2,8 @@
 
 > **Usado como:** Xarithel, Guardião das Ruínas
 
+![Drider](https://www.dnd5eapi.co/api/images/monsters/drider.png)
+
 ---
 
 | Atributo | Valor |

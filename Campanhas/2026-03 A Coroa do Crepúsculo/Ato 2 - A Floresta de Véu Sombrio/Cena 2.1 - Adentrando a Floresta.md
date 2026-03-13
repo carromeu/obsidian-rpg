@@ -39,7 +39,7 @@ Role ou escolha 2-3 destes eventos durante a viagem para construir atmosfera:
 ### 1. As Estátuas Vivas
 > *Vocês passam por formações de pedra que lembram figuras humanoides — elfos com expressões de terror. Ao examinar de perto, percebem que são pedras naturais... ou eram pessoas, há muito tempo.*
 
-- **Arcana DC 14:** Vestígios de magia de transmutação. Petrificação — possivelmente obra de uma [[Ficha - Medusa|Medusa]] que vivia aqui séculos atrás.
+- **Arcana DC 14:** Vestígios de magia de transmutação. Petrificação — possivelmente obra de uma Medusa que vivia aqui séculos atrás.
 - Puro flavor — não há Medusa ativa.
 
 ### 2. Os Cogumelos Sussurrantes
