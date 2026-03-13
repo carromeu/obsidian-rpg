@@ -3,7 +3,7 @@
 > **Papel:** Aliada Ambígua / Possível Inimiga
 > **Raça:** Green Hag | **Alinhamento:** Neutro Maligno (pragmática)
 
-![[Retrato - Thessara.svg]]
+![[Retrato - Thessara.png]]
 
 ---
 

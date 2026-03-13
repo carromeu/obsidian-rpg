@@ -3,7 +3,7 @@
 > **Papel:** Quest Giver / Mentor / Possível Antagonista Futuro
 > **Raça:** Meio-Elfo | **Idade:** 187 anos | **Alinhamento:** Neutro Bom → Neutro
 
-![[Retrato - Elarion.svg]]
+![[Retrato - Elarion.png]]
 
 ---
 

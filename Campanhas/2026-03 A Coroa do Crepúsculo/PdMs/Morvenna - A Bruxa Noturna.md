@@ -3,7 +3,7 @@
 > **Papel:** Vilã Principal
 > **Raça:** Night Hag | **Alinhamento:** Neutro Maligno
 
-![[Retrato - Morvenna.svg]]
+![[Retrato - Morvenna.png]]
 
 ---
 

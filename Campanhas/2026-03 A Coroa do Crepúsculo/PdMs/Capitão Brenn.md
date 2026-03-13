@@ -3,7 +3,7 @@
 > **Papel:** Líder da Milícia / Informante / Quest Giver secundário
 > **Raça:** Humano | **Idade:** 42 | **Alinhamento:** Leal Bom
 
-![[Retrato - Capitao Brenn.svg]]
+![[Retrato - Capitao Brenn.png]]
 
 ---
 
