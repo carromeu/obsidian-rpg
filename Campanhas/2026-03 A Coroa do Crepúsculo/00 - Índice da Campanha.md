@@ -73,6 +73,8 @@
 - [[Ficha - Animated Armor|Animated Armor]]
 - [[Ficha - Cult Fanatic|Cult Fanatic]]
 - [[Ficha - Ghoul|Ghoul]]
+- [[Ficha - Hell Hound|Hell Hound]]
+- [[Fichas - Criaturas de Apoio|Bestiário Consolidado (Referência Rápida)]]
 
 ---
 
