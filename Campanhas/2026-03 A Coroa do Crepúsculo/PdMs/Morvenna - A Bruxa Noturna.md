@@ -15,6 +15,8 @@ Morvenna é uma criatura de pesadelo: pele azul-acinzentada, olhos que ardem com
 ### Forma Disfarçada (Change Shape)
 Uma mulher humana de meia-idade, cabelos grisalhos, rosto bondoso e mãos calejadas de curandeira. Carrega um cajado de madeira e um avental cheio de ervas. Apenas os olhos traem a verdade — se alguém olhar de perto (Insight DC 16), há algo *faminto* neles.
 
+![[Retrato - Morvenna Disfarce.png]]
+
 ## Personalidade
 
 | Traço | Descrição |

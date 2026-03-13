@@ -12,6 +12,8 @@
 ### Forma Verdadeira
 Pele verde-escura e enrugada como casca de árvore. Cabelos como cipós, dentes afiados e amarelados. Dedos longos com unhas negras. Cheira a musgo e terra molhada. Olhos amarelos que brilham na escuridão.
 
+![[Retrato - Thessara Verdadeira.png]]
+
 ### Forma Disfarçada (Illusory Appearance)
 Uma senhora humana gordinha e simpática, com bochechas rosadas, avental florido e um sorriso caloroso. Parece alguém que faria torta de maçã.
 
