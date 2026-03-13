@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 850" font-family="'Segoe UI', Tahoma, sans-serif">
+  <defs><filter id="ds"><feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#0a0a0a" flood-opacity="0.5"/></filter></defs>
+  <rect width="700" height="850" fill="#2a2a22" rx="8"/>
+  <rect x="130" y="10" width="440" height="48" rx="6" fill="#3a3020" stroke="#8a7a50" stroke-width="2"/>
+  <text x="350" y="28" text-anchor="middle" fill="#d4b060" font-size="11" letter-spacing="3">NIVEL SUPERIOR</text>
+  <text x="350" y="48" text-anchor="middle" fill="#f0d080" font-size="18" font-weight="bold" letter-spacing="2">RUINAS DE KAELDRITH</text>
+  <!-- Sala 1: Entrada -->
+  <rect x="255" y="85" width="190" height="110" rx="6" fill="#5a5a48" stroke="#8a8a6a" stroke-width="3" filter="url(#ds)"/>
+  <text x="350" y="125" text-anchor="middle" fill="#e0d0a0" font-size="15" font-weight="bold">ENTRADA</text>
+  <text x="350" y="145" text-anchor="middle" fill="#b0a080" font-size="12">(Sala 1)</text>
+  <text x="350" y="165" text-anchor="middle" fill="#90a070" font-size="10">Escadaria descendente</text>
+  <line x1="350" y1="65" x2="350" y2="85" stroke="#d4b060" stroke-width="2"/>
+  <text x="350" y="77" text-anchor="middle" fill="#d4b060" font-size="10">Entrada</text>
+  <!-- Corredor -->
+  <rect x="325" y="195" width="50" height="50" fill="#4a4a38" stroke="#7a7a5a" stroke-width="2"/>
+  <!-- Sala 2: Corredor das Colunas -->
+  <rect x="220" y="245" width="260" height="130" rx="6" fill="#5a5a48" stroke="#8a8a6a" stroke-width="3" filter="url(#ds)"/>
+  <circle cx="255" cy="280" r="6" fill="#7a7a60" stroke="#a0a080" stroke-width="1.5"/>
+  <circle cx="255" cy="310" r="6" fill="#7a7a60" stroke="#a0a080" stroke-width="1.5"/>
+  <circle cx="255" cy="340" r="6" fill="#7a7a60" stroke="#a0a080" stroke-width="1.5"/>
+  <circle cx="445" cy="280" r="6" fill="#7a7a60" stroke="#a0a080" stroke-width="1.5"/>
+  <circle cx="445" cy="310" r="6" fill="#7a7a60" stroke="#a0a080" stroke-width="1.5"/>
+  <circle cx="445" cy="340" r="6" fill="#7a7a60" stroke="#a0a080" stroke-width="1.5"/>
+  <text x="350" y="295" text-anchor="middle" fill="#e0d0a0" font-size="14" font-weight="bold">CORREDOR DAS COLUNAS</text>
+  <text x="350" y="315" text-anchor="middle" fill="#b0a080" font-size="11">(Sala 2)</text>
+  <text x="350" y="355" text-anchor="middle" fill="#cc6633" font-size="10">Armadilha de dardos (Perception DC 14)</text>
+  <!-- Branches -->
+  <rect x="200" y="375" width="60" height="50" fill="#4a4a38" stroke="#7a7a5a" stroke-width="2"/>
+  <rect x="440" y="375" width="60" height="50" fill="#4a4a38" stroke="#7a7a5a" stroke-width="2"/>
+  <!-- Sala 3: Murais -->
+  <rect x="80" y="425" width="200" height="130" rx="6" fill="#5a5848" stroke="#8a8a6a" stroke-width="3" filter="url(#ds)"/>
+  <line x1="90" y1="435" x2="90" y2="545" stroke="#b0a050" stroke-width="3"/>
+  <line x1="270" y1="435" x2="270" y2="545" stroke="#b0a050" stroke-width="3"/>
+  <text x="180" y="480" text-anchor="middle" fill="#e0d0a0" font-size="14" font-weight="bold">SALA DOS MURAIS</text>
+  <text x="180" y="500" text-anchor="middle" fill="#b0a080" font-size="11">(Sala 3)</text>
+  <text x="180" y="533" text-anchor="middle" fill="#90b070" font-size="9">Flame Tongue (secreto DC 17)</text>
+  <!-- Sala 4: Basilisco -->
+  <rect x="420" y="425" width="200" height="130" rx="6" fill="#5a4a48" stroke="#8a6a6a" stroke-width="3" filter="url(#ds)"/>
+  <text x="520" y="480" text-anchor="middle" fill="#e0d0a0" font-size="14" font-weight="bold">SALA DO BASILISCO</text>
+  <text x="520" y="500" text-anchor="middle" fill="#b0a080" font-size="11">(Sala 4)</text>
+  <text x="520" y="533" text-anchor="middle" fill="#cc5533" font-size="10">CR 3 - Petrifying Gaze!</text>
+  <!-- Corridor to Sala 5 -->
+  <rect x="155" y="555" width="50" height="60" fill="#4a4a38" stroke="#7a7a5a" stroke-width="2"/>
+  <!-- Sala 5: Fragmento -->
+  <rect x="100" y="615" width="260" height="150" rx="8" fill="#4a3a48" stroke="#9a6a9a" stroke-width="3" filter="url(#ds)"/>
+  <circle cx="230" cy="690" r="30" fill="#6a4a8a" opacity="0.3"/>
+  <circle cx="230" cy="690" r="20" fill="#8a5aaa" opacity="0.3"/>
+  <text x="230" y="670" text-anchor="middle" fill="#e0c0ff" font-size="15" font-weight="bold">CAMARA DO FRAGMENTO</text>
+  <text x="230" y="690" text-anchor="middle" fill="#b0a0c0" font-size="11">(Sala 5)</text>
+  <text x="230" y="720" text-anchor="middle" fill="#cc88ee" font-size="10">Fragmento das Ruinas</text>
+  <text x="230" y="742" text-anchor="middle" fill="#cc6633" font-size="10">Boss + Puzzle: Tributo de Luz</text>
+  <rect x="40" y="790" width="620" height="48" rx="6" fill="#3a3020" stroke="#6a5a3a" stroke-width="1"/>
+  <text x="60" y="810" fill="#d0b070" font-size="10">Armadilha | Combate | Vitimas petrificadas | Objetivo: Fragmento</text>
+  <text x="60" y="828" fill="#d0b070" font-size="10">Puzzle Sol-Estrela-Lua-Eclipse | Sala secreta: Investigation DC 17</text>
+</svg>

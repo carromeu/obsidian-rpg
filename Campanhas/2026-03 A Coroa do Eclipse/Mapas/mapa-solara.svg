@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 800" font-family="'Segoe UI', Tahoma, sans-serif">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#c4b491" stroke-width="0.3" opacity="0.3"/>
+    </pattern>
+    <filter id="shadow"><feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#2a1a0a" flood-opacity="0.3"/></filter>
+    <marker id="arrow" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6 Z" fill="#6b4423"/></marker>
+  </defs>
+  <rect width="700" height="800" fill="#d4c4a1" rx="8"/>
+  <rect width="700" height="800" fill="url(#grid)" rx="8"/>
+  <rect x="150" y="12" width="400" height="45" rx="6" fill="#5a3a1a" opacity="0.85"/>
+  <text x="350" y="43" text-anchor="middle" fill="#f0e0c0" font-size="22" font-weight="bold" letter-spacing="3">VILA DE SOLARA</text>
+  <rect x="60" y="80" width="580" height="560" rx="12" fill="none" stroke="#5a3a1a" stroke-width="4" stroke-dasharray="12,4"/>
+  <rect x="65" y="85" width="570" height="550" rx="10" fill="none" stroke="#5a3a1a" stroke-width="1.5" stroke-dasharray="8,6"/>
+  <rect x="70" y="90" width="560" height="540" rx="8" fill="#c8b88a" opacity="0.4"/>
+  <rect x="195" y="220" width="310" height="140" rx="8" fill="#b8a070" stroke="#6b4a2a" stroke-width="3" filter="url(#shadow)"/>
+  <rect x="205" y="230" width="290" height="120" rx="6" fill="none" stroke="#6b4a2a" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="350" y="275" text-anchor="middle" fill="#3a2a1a" font-size="17" font-weight="bold">Praca Central</text>
+  <circle cx="350" cy="310" r="22" fill="#a09070" stroke="#6b4a2a" stroke-width="2"/>
+  <text x="350" y="315" text-anchor="middle" fill="#4a3a2a" font-size="10">Fonte Seca</text>
+  <rect x="120" y="120" width="120" height="65" rx="4" fill="#8a7a6a" stroke="#5a4a3a" stroke-width="2" filter="url(#shadow)"/>
+  <text x="180" y="148" text-anchor="middle" fill="#f0e0c0" font-size="11" font-weight="bold">Casa</text>
+  <text x="180" y="163" text-anchor="middle" fill="#f0e0c0" font-size="11" font-weight="bold">Abandonada</text>
+  <rect x="360" y="120" width="120" height="65" rx="4" fill="#8a7a6a" stroke="#5a4a3a" stroke-width="2" filter="url(#shadow)"/>
+  <text x="420" y="148" text-anchor="middle" fill="#f0e0c0" font-size="11" font-weight="bold">Casa</text>
+  <text x="420" y="163" text-anchor="middle" fill="#f0e0c0" font-size="11" font-weight="bold">Abandonada</text>
+  <line x1="210" y1="185" x2="270" y2="220" stroke="#7a6a5a" stroke-width="2" stroke-dasharray="5,3"/>
+  <line x1="390" y1="185" x2="430" y2="220" stroke="#7a6a5a" stroke-width="2" stroke-dasharray="5,3"/>
+  <rect x="95" y="410" width="150" height="90" rx="6" fill="#8b4513" stroke="#5a2a0a" stroke-width="3" filter="url(#shadow)"/>
+  <rect x="100" y="415" width="140" height="80" rx="4" fill="none" stroke="#d4a460" stroke-width="1"/>
+  <text x="170" y="442" text-anchor="middle" fill="#f0e0c0" font-size="13" font-weight="bold">Taverna</text>
+  <text x="170" y="462" text-anchor="middle" fill="#ffd080" font-size="14" font-weight="bold">"O Ultimo Sol"</text>
+  <circle cx="130" cy="480" r="4" fill="#ffaa00" opacity="0.7"/>
+  <circle cx="210" cy="480" r="4" fill="#ffaa00" opacity="0.7"/>
+  <rect x="275" y="410" width="150" height="90" rx="6" fill="#4a5a7a" stroke="#2a3a5a" stroke-width="3" filter="url(#shadow)"/>
+  <text x="350" y="442" text-anchor="middle" fill="#f0e0c0" font-size="13" font-weight="bold">Templo</text>
+  <text x="350" y="462" text-anchor="middle" fill="#c0d0ff" font-size="14" font-weight="bold">da Aurora</text>
+  <text x="350" y="482" text-anchor="middle" fill="#a0b0d0" font-size="9">Runas anti-undead 30ft</text>
+  <rect x="455" y="410" width="150" height="90" rx="6" fill="#5a5a4a" stroke="#3a3a2a" stroke-width="3" filter="url(#shadow)"/>
+  <text x="530" y="442" text-anchor="middle" fill="#f0e0c0" font-size="13" font-weight="bold">Quartel</text>
+  <text x="530" y="462" text-anchor="middle" fill="#d0d0c0" font-size="14" font-weight="bold">da Guarda</text>
+  <text x="530" y="482" text-anchor="middle" fill="#a0a090" font-size="9">6 guardas restantes</text>
+  <line x1="270" y1="360" x2="170" y2="410" stroke="#7a6a5a" stroke-width="2.5" stroke-dasharray="5,3"/>
+  <line x1="350" y1="360" x2="350" y2="410" stroke="#7a6a5a" stroke-width="2.5" stroke-dasharray="5,3"/>
+  <line x1="430" y1="360" x2="530" y2="410" stroke="#7a6a5a" stroke-width="2.5" stroke-dasharray="5,3"/>
+  <rect x="300" y="555" width="100" height="45" rx="6" fill="#6a5a4a" stroke="#4a3a2a" stroke-width="3"/>
+  <text x="350" y="583" text-anchor="middle" fill="#f0e0c0" font-size="13" font-weight="bold">Portao Sul</text>
+  <line x1="350" y1="500" x2="350" y2="555" stroke="#7a6a5a" stroke-width="3" stroke-dasharray="5,3"/>
+  <rect x="100" y="680" width="500" height="40" rx="4" fill="#9a8a6a" stroke="#6a5a3a" stroke-width="2"/>
+  <line x1="120" y1="693" x2="580" y2="693" stroke="#b0a080" stroke-width="2"/>
+  <line x1="120" y1="707" x2="580" y2="707" stroke="#b0a080" stroke-width="2"/>
+  <text x="350" y="705" text-anchor="middle" fill="#3a2a1a" font-size="15" font-weight="bold">Estrada Principal</text>
+  <line x1="350" y1="600" x2="350" y2="680" stroke="#7a6a5a" stroke-width="3" stroke-dasharray="5,3" marker-end="url(#arrow)"/>
+  <g transform="translate(610,120)">
+    <circle cx="0" cy="0" r="28" fill="#c8b88a" stroke="#5a3a1a" stroke-width="2"/>
+    <text x="0" y="-12" text-anchor="middle" fill="#3a1a0a" font-size="14" font-weight="bold">N</text>
+    <text x="0" y="22" text-anchor="middle" fill="#3a1a0a" font-size="10">S</text>
+    <text x="16" y="6" text-anchor="middle" fill="#3a1a0a" font-size="10">L</text>
+    <text x="-16" y="6" text-anchor="middle" fill="#3a1a0a" font-size="10">O</text>
+    <line x1="0" y1="-6" x2="0" y2="-24" stroke="#3a1a0a" stroke-width="2"/>
+    <polygon points="0,-26 -4,-18 4,-18" fill="#3a1a0a"/>
+  </g>
+  <rect x="40" y="730" width="620" height="55" rx="6" fill="#5a3a1a" opacity="0.8"/>
+  <text x="60" y="755" fill="#d4b48a" font-size="11">Casas abandonadas (Investigation DC 14: simbolo da Ordem da Lua Negra)</text>
+  <text x="60" y="773" fill="#d4b48a" font-size="11">Taverna ativo | Templo seguro (runas) | Guarda de Solara (Capitao Borrin)</text>
+</svg>
