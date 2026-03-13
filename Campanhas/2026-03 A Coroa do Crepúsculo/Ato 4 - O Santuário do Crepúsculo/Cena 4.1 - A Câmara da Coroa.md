@@ -17,24 +17,7 @@
 
 ## Layout do Santuário
 
-```
-         [Entrada Norte - Portal]
-              |
-    [Corredor Norte - Cultistas]
-              |
-     ┌────────────────────┐
-     │                    │
-  [Flanco   [ALTAR COM    [Flanco
-   Oeste]    A COROA]      Leste]
-     │                    │
-     │   [Morvenna +      │
-     │    Guardas]        │
-     └────────────────────┘
-              |
-    [Catacumbas - acesso lateral]
-              |
-         [Saída Sul - colapsada]
-```
+![[Mapa Santuario do Crepusculo.svg]]
 
 ### Posições Inimigas
 - **4 [[Ficha - Cult Fanatic|Cult Fanatics]]** no corredor norte (linha de frente)

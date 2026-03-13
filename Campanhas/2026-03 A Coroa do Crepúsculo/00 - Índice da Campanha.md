@@ -86,7 +86,20 @@
 
 ---
 
-## 🗺️ Mapa Narrativo (Grafo de Decisões)
+## 🗺️ Mapas da Campanha
+
+### Mapa Regional
+![[Mapa Regional.svg]]
+
+### Mapas de Cenário
+- [[Mapa Vila de Raizes Profundas.svg|Mapa — Vila de Raízes Profundas]] *(Ato 1)*
+- [[Mapa Pantano de Thessara.svg|Mapa — Pântano de Thessara]] *(Ato 2)*
+- [[Mapa Ruinas Nivel 1.svg|Mapa — Ruínas de Aelindor: Nível 1]] *(Ato 3)*
+- [[Mapa Salao dos Espelhos.svg|Mapa — Salão dos Espelhos: Nível 2]] *(Ato 3)*
+- [[Mapa Ponte do Guardiao.svg|Mapa — Ponte do Guardião (Drider)]] *(Ato 3)*
+- [[Mapa Santuario do Crepusculo.svg|Mapa — Santuário do Crepúsculo]] *(Ato 4)*
+
+### Mapa Narrativo (Grafo de Decisões)
 
 ```mermaid
 graph TD

@@ -1,0 +1,187 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 700" width="800" height="700">
+  <defs>
+    <filter id="shadow"><feDropShadow dx="1" dy="1" stdDeviation="1.5" flood-color="#0a0510" flood-opacity="0.5"/></filter>
+    <linearGradient id="twilight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#4a2060"/><stop offset="40%" stop-color="#2a1040"/><stop offset="100%" stop-color="#1a0820"/>
+    </linearGradient>
+    <radialGradient id="crownGlow" cx="50%" cy="50%" r="40%">
+      <stop offset="0%" stop-color="#e0a020" stop-opacity="0.5"/><stop offset="50%" stop-color="#a06080" stop-opacity="0.2"/><stop offset="100%" stop-color="#4a2060" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="crystalGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8060c0" stop-opacity="0.3"/><stop offset="100%" stop-color="#8060c0" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="cathedralFloor" patternUnits="userSpaceOnUse" width="24" height="24">
+      <rect width="24" height="24" fill="#2a2030"/>
+      <rect x="0" y="0" width="12" height="12" fill="#282030" stroke="#201828" stroke-width="0.3"/>
+      <rect x="12" y="12" width="12" height="12" fill="#282030" stroke="#201828" stroke-width="0.3"/>
+    </pattern>
+  </defs>
+  <!-- Background -->
+  <rect width="800" height="700" fill="url(#twilight)"/>
+  <!-- Stars on ceiling -->
+  <g fill="#e0d0ff" opacity="0.15">
+    <circle cx="100" cy="30" r="1"/><circle cx="250" cy="45" r="0.8"/><circle cx="400" cy="20" r="1.2"/><circle cx="550" cy="40" r="0.8"/><circle cx="700" cy="25" r="1"/><circle cx="150" cy="55" r="0.6"/><circle cx="350" cy="50" r="0.7"/><circle cx="500" cy="15" r="0.9"/><circle cx="650" cy="50" r="0.6"/><circle cx="50" cy="40" r="0.7"/><circle cx="750" cy="35" r="0.8"/>
+  </g>
+  <!-- Border -->
+  <rect x="0" y="0" width="800" height="700" fill="none" stroke="#5a3a6a" stroke-width="8"/>
+  <rect x="4" y="4" width="792" height="692" fill="none" stroke="#7a5a8a" stroke-width="1"/>
+  <!-- Title -->
+  <rect x="180" y="10" width="440" height="42" rx="3" fill="#1a0820" opacity="0.95"/>
+  <rect x="182" y="12" width="436" height="38" rx="2" fill="none" stroke="#c0a060" stroke-width="0.8"/>
+  <text x="400" y="35" text-anchor="middle" font-family="Georgia, serif" font-size="19" fill="#e0c080" font-weight="bold" letter-spacing="2">SANTUARIO DO CREPUSCULO</text>
+  <text x="400" y="46" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#a08050" letter-spacing="1">ATO 4 — CONFRONTO FINAL COM MORVENNA</text>
+
+  <!-- MAIN HALL FLOOR -->
+  <g transform="translate(400,380)">
+    <!-- Cathedral shape -->
+    <path d="M -200,-250 L -200,180 Q -200,220 -160,220 L 160,220 Q 200,220 200,180 L 200,-250 Q 200,-280 170,-280 L -170,-280 Q -200,-280 -200,-250 Z" fill="url(#cathedralFloor)" stroke="#4a3a5a" stroke-width="2"/>
+    
+    <!-- Petrified tree columns -->
+    <g fill="#5a4a3a" stroke="#4a3a2a" stroke-width="1">
+      <circle cx="-150" cy="-200" r="10"/><circle cx="150" cy="-200" r="10"/>
+      <circle cx="-150" cy="-100" r="10"/><circle cx="150" cy="-100" r="10"/>
+      <circle cx="-150" cy="0" r="10"/><circle cx="150" cy="0" r="10"/>
+      <circle cx="-150" cy="100" r="10"/><circle cx="150" cy="100" r="10"/>
+    </g>
+    <!-- Column tops (branches) -->
+    <g stroke="#4a3a2a" stroke-width="1" fill="none" opacity="0.4">
+      <path d="M -150,-210 Q -160,-230 -170,-240 M -150,-210 Q -140,-230 -130,-240"/>
+      <path d="M 150,-210 Q 160,-230 170,-240 M 150,-210 Q 140,-230 130,-240"/>
+    </g>
+
+    <!-- Crystal walls (glowing) -->
+    <g opacity="0.15">
+      <rect x="-198" y="-248" width="396" height="468" rx="3" fill="none" stroke="#a080e0" stroke-width="4"/>
+    </g>
+  </g>
+
+  <!-- ENTRANCE NORTH (Portal) -->
+  <g transform="translate(400,90)">
+    <rect x="-30" y="-8" width="60" height="30" rx="3" fill="url(#cathedralFloor)" stroke="#4a3a5a" stroke-width="1.5"/>
+    <rect x="-15" y="-8" width="30" height="6" rx="8" fill="#7050a0" opacity="0.5" stroke="#9070c0" stroke-width="1"/>
+    <text x="0" y="18" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#9080a0" font-style="italic">Portal Norte</text>
+  </g>
+  <!-- Corridor north -->
+  <rect x="370" y="112" width="60" height="50" fill="url(#cathedralFloor)" stroke="#4a3a5a" stroke-width="1"/>
+
+  <!-- CULT FANATICS in north corridor -->
+  <g transform="translate(400,140)">
+    <circle cx="-18" cy="0" r="6" fill="#aa2020" opacity="0.7"/><text x="-18" y="3" text-anchor="middle" font-size="6" fill="#fff" font-family="Georgia, serif">CF</text>
+    <circle cx="-6" cy="10" r="6" fill="#aa2020" opacity="0.7"/><text x="-6" y="13" text-anchor="middle" font-size="6" fill="#fff" font-family="Georgia, serif">CF</text>
+    <circle cx="6" cy="0" r="6" fill="#aa2020" opacity="0.7"/><text x="6" y="3" text-anchor="middle" font-size="6" fill="#fff" font-family="Georgia, serif">CF</text>
+    <circle cx="18" cy="10" r="6" fill="#aa2020" opacity="0.7"/><text x="18" y="13" text-anchor="middle" font-size="6" fill="#fff" font-family="Georgia, serif">CF</text>
+  </g>
+  <text x="400" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#cc6060">4 Cult Fanatics</text>
+
+  <!-- FLANKS -->
+  <!-- West flank -->
+  <g transform="translate(235,340)">
+    <rect x="-25" y="-30" width="50" height="60" rx="2" fill="url(#cathedralFloor)" stroke="#4a3a5a" stroke-width="1"/>
+    <!-- Gargoyle (petrified) -->
+    <rect x="-10" y="-15" width="20" height="20" rx="3" fill="#5a5a5a" stroke="#7a7a7a" stroke-width="1"/>
+    <text x="0" y="-2" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#9a9a9a" font-weight="bold">G</text>
+  </g>
+  <text x="235" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#8a8a8a" font-weight="bold">FLANCO OESTE</text>
+  <text x="235" y="380" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#8a8a6a" font-style="italic">Gargoyle</text>
+
+  <!-- East flank -->
+  <g transform="translate(565,340)">
+    <rect x="-25" y="-30" width="50" height="60" rx="2" fill="url(#cathedralFloor)" stroke="#4a3a5a" stroke-width="1"/>
+    <!-- Gargoyle (petrified) -->
+    <rect x="-10" y="-15" width="20" height="20" rx="3" fill="#5a5a5a" stroke="#7a7a7a" stroke-width="1"/>
+    <text x="0" y="-2" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#9a9a9a" font-weight="bold">G</text>
+  </g>
+  <text x="565" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#8a8a8a" font-weight="bold">FLANCO LESTE</text>
+  <text x="565" y="380" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#8a8a6a" font-style="italic">Gargoyle</text>
+
+  <!-- THE ALTAR (center) -->
+  <g transform="translate(400,400)" filter="url(#shadow)">
+    <!-- Crown glow -->
+    <circle cx="0" cy="0" r="60" fill="url(#crownGlow)"/>
+    <!-- Obsidian altar -->
+    <rect x="-25" y="-15" width="50" height="30" rx="3" fill="#1a1020" stroke="#4a3a5a" stroke-width="2"/>
+    <rect x="-22" y="-12" width="44" height="24" rx="2" fill="none" stroke="#c0a060" stroke-width="0.5"/>
+    <!-- THE CROWN -->
+    <g transform="translate(0,-8)">
+      <path d="M -8,0 L -10,-8 L -5,-4 L 0,-10 L 5,-4 L 10,-8 L 8,0 Z" fill="#c0a040" stroke="#e0c060" stroke-width="0.8"/>
+      <circle cx="0" cy="-6" r="3" fill="#8040a0" stroke="#a060c0" stroke-width="0.5"/>
+    </g>
+  </g>
+  <text x="400" y="432" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#e0c080" font-weight="bold">ALTAR DA COROA</text>
+  <text x="400" y="444" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#c0a060" font-style="italic">Obsidiana negra — A Coroa do Crepusculo</text>
+
+  <!-- MORVENNA position (near altar) -->
+  <g transform="translate(400,470)">
+    <ellipse cx="0" cy="0" rx="12" ry="10" fill="#2a1040" stroke="#8040a0" stroke-width="2"/>
+    <circle cx="0" cy="-4" r="5" fill="#3a1860" stroke="#a060c0" stroke-width="1"/>
+    <!-- Heartstone -->
+    <circle cx="0" cy="2" r="3" fill="#200a30" stroke="#6030a0" stroke-width="1"/>
+    <circle cx="0" cy="2" r="1.5" fill="#4020a0" opacity="0.8"/>
+  </g>
+  <text x="400" y="492" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#c060e0" font-weight="bold">MORVENNA</text>
+  <text x="400" y="504" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#a050c0" font-style="italic">Night Hag — Ritualizando</text>
+
+  <!-- HELL HOUNDS -->
+  <g transform="translate(360,480)">
+    <ellipse cx="0" cy="0" rx="8" ry="6" fill="#8a2020" stroke="#aa4040" stroke-width="1"/>
+    <text x="0" y="3" text-anchor="middle" font-family="Georgia, serif" font-size="6" fill="#ff8040" font-weight="bold">HH</text>
+  </g>
+  <g transform="translate(440,480)">
+    <ellipse cx="0" cy="0" rx="8" ry="6" fill="#8a2020" stroke="#aa4040" stroke-width="1"/>
+    <text x="0" y="3" text-anchor="middle" font-family="Georgia, serif" font-size="6" fill="#ff8040" font-weight="bold">HH</text>
+  </g>
+  <text x="400" y="520" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#cc6040">2 Hell Hounds</text>
+
+  <!-- CATACUMBAS (lateral access) -->
+  <g transform="translate(400,580)">
+    <rect x="-30" y="-10" width="60" height="30" rx="2" fill="url(#cathedralFloor)" stroke="#3a3a4a" stroke-width="1" stroke-dasharray="3,2"/>
+    <text x="0" y="4" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#7a7a8a">CATACUMBAS</text>
+    <text x="0" y="14" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#6a6a7a" font-style="italic">Acesso lateral</text>
+  </g>
+  <!-- Path from catacumbs to main hall -->
+  <path d="M 400,570 L 400,560" stroke="#4a4a5a" stroke-width="1" stroke-dasharray="2,2"/>
+
+  <!-- COLLAPSED EXIT -->
+  <g transform="translate(400,620)">
+    <rect x="-25" y="-6" width="50" height="12" rx="2" fill="#3a3030" stroke="#5a4a4a" stroke-width="1"/>
+    <text x="0" y="3" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#6a5a5a">SAIDA SUL</text>
+    <line x1="-15" y1="-4" x2="15" y2="4" stroke="#8a3030" stroke-width="1.5"/>
+    <line x1="-15" y1="4" x2="15" y2="-4" stroke="#8a3030" stroke-width="1.5"/>
+    <text x="0" y="16" text-anchor="middle" font-family="Georgia, serif" font-size="6" fill="#8a5050" font-style="italic">Colapsada</text>
+  </g>
+
+  <!-- Fael betrayal zone -->
+  <g transform="translate(260,540)">
+    <rect x="-55" y="-12" width="110" height="24" rx="2" fill="#3a1020" fill-opacity="0.7" stroke="#aa3030" stroke-width="0.8" stroke-dasharray="3,2"/>
+    <text x="0" y="0" text-anchor="middle" font-family="Georgia, serif" font-size="7" fill="#ee6060" font-weight="bold">TRAICAO DE FAEL</text>
+    <text x="0" y="9" text-anchor="middle" font-family="Georgia, serif" font-size="6" fill="#cc5050" font-style="italic">+3 cultistas pelo flanco</text>
+  </g>
+
+  <!-- Ritual counter -->
+  <g transform="translate(640,460)">
+    <rect x="0" y="0" width="130" height="65" rx="3" fill="#1a0820" fill-opacity="0.95" stroke="#c0a060" stroke-width="1"/>
+    <text x="65" y="14" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#e0c080" font-weight="bold">RITUAL DE MORVENNA</text>
+    <line x1="5" y1="18" x2="125" y2="18" stroke="#c0a060" stroke-width="0.5"/>
+    <text x="10" y="30" font-family="Georgia, serif" font-size="7" fill="#a090a0">Rd 1: Ar vibra</text>
+    <text x="10" y="40" font-family="Georgia, serif" font-size="7" fill="#a090a0">Rd 2: +2 Phase Spiders</text>
+    <text x="10" y="50" font-family="Georgia, serif" font-size="7" fill="#ee6060" font-weight="bold">Rd 3: RITUAL COMPLETO</text>
+    <text x="10" y="60" font-family="Georgia, serif" font-size="6" fill="#cc5050" font-style="italic">Morvenna veste a Coroa!</text>
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(20,500)">
+    <rect x="0" y="0" width="140" height="105" rx="3" fill="#1a0820" fill-opacity="0.95" stroke="#5a3a6a" stroke-width="1"/>
+    <text x="70" y="14" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#c0a0e0" font-weight="bold">LEGENDA</text>
+    <line x1="5" y1="18" x2="135" y2="18" stroke="#5a3a6a" stroke-width="0.5"/>
+    <circle cx="14" cy="30" r="5" fill="#aa2020" opacity="0.7"/><text x="14" y="33" text-anchor="middle" font-size="5" fill="#fff" font-family="Georgia, serif">CF</text>
+    <text x="26" y="33" font-family="Georgia, serif" font-size="7" fill="#a090a0">Cult Fanatic</text>
+    <rect x="8" y="40" width="12" height="10" rx="2" fill="#5a5a5a" stroke="#7a7a7a" stroke-width="0.5"/><text x="14" y="48" text-anchor="middle" font-size="5" fill="#9a9a9a" font-family="Georgia, serif">G</text>
+    <text x="26" y="49" font-family="Georgia, serif" font-size="7" fill="#a090a0">Gargoyle</text>
+    <ellipse cx="14" cy="62" rx="6" ry="5" fill="#8a2020" stroke="#aa4040" stroke-width="0.5"/>
+    <text x="26" y="65" font-family="Georgia, serif" font-size="7" fill="#a090a0">Hell Hound</text>
+    <ellipse cx="14" cy="78" rx="6" ry="5" fill="#2a1040" stroke="#8040a0" stroke-width="1"/>
+    <text x="26" y="81" font-family="Georgia, serif" font-size="7" fill="#a090a0">Morvenna (Night Hag)</text>
+    <circle cx="14" cy="92" r="5" fill="#3a3a5a" stroke="#5a5a7a" stroke-width="0.5"/>
+    <text x="26" y="95" font-family="Georgia, serif" font-size="7" fill="#a090a0">Coluna (arvore petrificada)</text>
+  </g>
+</svg>

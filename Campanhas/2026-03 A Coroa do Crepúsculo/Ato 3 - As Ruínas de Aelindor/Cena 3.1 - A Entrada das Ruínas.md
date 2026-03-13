@@ -15,24 +15,7 @@
 
 ## Mapa da Entrada (Nível 1)
 
-```
-     [Escadaria]
-         |
-    [Sala de Entrada]
-      /         \
-[Corredor     [Corredor
- Esquerdo]     Direito]
-    |              |
-[Sala das      [Sala das
- Armaduras]     Runas]
-      \         /
-    [Sala Central]
-         |
-   [Escadaria para
-    Nível Inferior]
-         |
-    → Cena 3.2
-```
+![[Mapa Ruinas Nivel 1.svg]]
 
 ---
 

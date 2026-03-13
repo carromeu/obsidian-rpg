@@ -15,6 +15,10 @@
 
 ---
 
+## Mapa da Vila
+
+![[Mapa Vila de Raizes Profundas.svg]]
+
 ## Locais de Interesse
 
 ### A Raiz Torta (Taverna)

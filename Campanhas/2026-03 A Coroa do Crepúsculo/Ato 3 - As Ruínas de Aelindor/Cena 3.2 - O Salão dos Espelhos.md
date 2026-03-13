@@ -13,6 +13,10 @@
 
 ---
 
+## Mapa do Salão
+
+![[Mapa Salao dos Espelhos.svg]]
+
 ## Mecânica do Salão
 
 O Salão dos Espelhos é uma defesa arcana criada pelos elfos de Aelindor. Os espelhos mostram reflexos distorcidos que representam os **medos e desejos ocultos** de quem os observa.

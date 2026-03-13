@@ -15,6 +15,10 @@
 
 ---
 
+## Mapa do Pântano
+
+![[Mapa Pantano de Thessara.svg]]
+
 ## [[Thessara - A Bruxa Verde|Thessara]]
 
 Thessara é uma **[[Ficha - Green Hag|Green Hag]]** que vive no pântano há séculos. Ela usa **Illusory Appearance** para parecer uma senhora humana bondosa. Ao contrário de Morvenna, Thessara não é "maligna por vocação" — é egoísta, oportunista e cruel por diversão, mas tem um código próprio.

@@ -40,13 +40,7 @@
 
 ## A Ponte (Campo de Batalha)
 
-```
-[Entrada] ====[PONTE 9m x 3m]===== [Portal do Santuário]
-                   |
-              [Abismo 30m]
-              (1d6 dano queda
-               por cada 3m)
-```
+![[Mapa Ponte do Guardiao.svg]]
 
 - **Ponte:** 9m de comprimento, 3m de largura
 - **Abismo:** 30m de profundidade (10d6 dano de queda)
